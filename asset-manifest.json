@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.54cb9e68.css",
+    "main.js": "/portfolio/static/js/main.dd8db3d8.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/project-img3.png": "/portfolio/static/media/project-img3.abb901aff1b52505c3c6.png",
+    "static/media/project-img2.png": "/portfolio/static/media/project-img2.f5f007320631a250cb1f.png",
+    "static/media/project-img1.png": "/portfolio/static/media/project-img1.5d789034e25b13e0e5b1.png",
+    "static/media/nasalization-rg.otf": "/portfolio/static/media/nasalization-rg.4cbf2019f1f7337b2594.otf",
+    "static/media/vaibhavpic.jpeg": "/portfolio/static/media/vaibhavpic.e99eaae624fce7599fab.jpeg",
+    "static/media/Eye2.svg": "/portfolio/static/media/Eye2.bdb98aca0a95f868654077a5b195e694.svg",
+    "static/media/Star-2.svg": "/portfolio/static/media/Star-2.153cf30e9cbd74242a7f772bf91defaf.svg",
+    "static/media/sketch.svg": "/portfolio/static/media/sketch.45f9156d14bb688ce8795f68951b4a51.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/Square_1.svg": "/portfolio/static/media/Square_1.8e4963ecfcf07f6af117d868bd5b0bbc.svg",
+    "static/media/Star-3.svg": "/portfolio/static/media/Star-3.6778a2a1674b4ac4fa5abd75508c853e.svg",
+    "static/media/bar_3.svg": "/portfolio/static/media/bar_3.df986153645444cbe8e38193686abad2.svg",
+    "static/media/Half-Shape.svg": "/portfolio/static/media/Half-Shape.dc48d02534d5c3cb46567df547ba25fe.svg",
+    "static/media/One-Forth-Ellipse.svg": "/portfolio/static/media/One-Forth-Ellipse.05353883ba61baa928863e8943bb4261.svg",
+    "static/media/Waves_2.svg": "/portfolio/static/media/Waves_2.f122d3984b2ff07bb7fc36101eafbe50.svg",
+    "static/media/Small-Elipse.svg": "/portfolio/static/media/Small-Elipse.361be483368a955a3907c34936a4c3b3.svg",
+    "static/media/Ellipse.svg": "/portfolio/static/media/Ellipse.b8b8788c48c229bc1200b4dcd88e84ba.svg",
+    "main.54cb9e68.css.map": "/portfolio/static/css/main.54cb9e68.css.map",
+    "main.dd8db3d8.js.map": "/portfolio/static/js/main.dd8db3d8.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54cb9e68.css",
+    "static/js/main.dd8db3d8.js"
+  ]
+}
