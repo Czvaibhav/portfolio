@@ -20,10 +20,9 @@ function Landingpage() {
         <img src={eye} alt="star" className="eye allsvg" />
       </div>
       <div className="h-container flex">
-        <div className="text-sm">Hi, I am Vaibhav</div>
+        <div className="text-sm">Hello, I am VAIBHAV</div>
         <div className="text-lg">
-          Mastering the <span className="grad">Cloud.</span> Advanced Solutions
-          for Complex Challenges
+          Mastering <span className="grad">Cloud </span>and Devops Tools.
         </div>
         <div className="links flex">
           <a href="#github">

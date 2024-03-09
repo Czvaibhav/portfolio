@@ -3,19 +3,27 @@
   width: 80%;
   margin: auto;
 }
+
 .sketch {
   bottom: 12%;
   right: 5%;
 }
+
 .skillhead {
   font-size: 3rem;
   font-weight: bold;
   letter-spacing: 2px;
-  margin-bottom: 40px;
-  position: absolute;
-  right: 10%;
-  bottom: 10%;
-  color: #484849;
+  color: #ff5506;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+.grad {
+  background: -webkit-linear-gradient(120deg, #ff5506, #800080, #3f52ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
 }
 .skills {
   width: 100%;
@@ -23,8 +31,9 @@
   flex-direction: column;
   margin-bottom: 150px;
 }
+
 .skills .category {
-  width: 100%;
+  width: 80%;
   align-items: start;
   justify-content: left;
   gap: 20px;
@@ -35,6 +44,7 @@
   flex-wrap: wrap;
   justify-content: left;
 }
+
 .skills .category .categoryhead {
   width: 15%;
 }
@@ -44,6 +54,7 @@
   padding: 2px;
   border-radius: 10px;
 }
+
 .skillwrap .skill {
   background-color: #0b0b0a;
   padding: 15px 25px;
